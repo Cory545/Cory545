@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Cory545
-- 👀 I’m interested in coding, reading and gym. (Soon I'll go back to MMA)
-- 🌱 I’m currently learning HTML/CSS and JavaScript
-- 💞️ I’m looking to collaborate on projects involving the Coding languages I'm currently learning.
-- 📫 How to reach me - Send me a message.
+- 👋 Hey! I’m Cory, an aspiring web developer with a love for programming/coding.
+- 🌱 I’m competent with HTML/CSS and currently learning JavaScript.
+- 💞️ I'm looking to collaborate on projects that use HTML/CSS/JavaScript.
+- 📫 If you're looking to collaborate or want to reach out, just send me a message!
 - 😄 Pronouns: He/Him
