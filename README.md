@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Cory Burton.</h1>
+<h1>Thanks for checking my GitHub out! I'm Cory.</h1>
 
 
 
