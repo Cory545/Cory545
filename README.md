@@ -3,6 +3,24 @@
 
 
 - 👋 I'm an aspiring Web Developer, with a passion for programming/coding.
-- 🌱 I’m competent with HTML/CSS and currently learning JavaScript and jQuery.
-- 🤝 I'm looking to collaborate on projects that use HTML/CSS/JavaScript/jQuery.
+- 
+- <h2>I'm competent with</h2>
+
+- <ul>
+  <li>HTML/CSS</li>
+  <li>Tailwind CSS</li>
+  <li>Bootstrap</li>
+</ul>
+
+<h2>I'm currently learning</h2>
+
+<ul>
+  <li>JavaScript</li>
+  <li>ExpressJS</li>
+  <li>Node.js</li>
+  <li>jQuery</li>
+</ul>
+
+- 🤝 I'm looking to collaborate on projects.
+- 
 - 😄 Pronouns: He/Him
