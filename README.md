@@ -1,26 +1,31 @@
-<h1>Thanks for checking my GitHub out! I'm Cory.</h1>
+<h1>🌑Thanks for checking my GitHub out! I'm Cory.🌑</h1>
 
+<p>
+        💻I'm 24 and I currently live in England. I'm looking to be hired, or collaborate on projects. I'm currently in a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">bootcamp </a> (which I'm dedicating almost every spare hour to, when I'm not in my full-time job). I aim to be full-stack, competent in almost any area, so I can be heavily involved. 
+<br><br>
+        I never gave any credit to my fantasies of making websites and applications, until I was gifted a laptop less than a year ago.
+And I figured... Why not? So I did some googling. Not a day has gone by where I've not been obsessed. I am in love with the idea of making a website or application - that can positively impact peoples lives.🔋
+<br><br>
 
+</p>
 
-- 👋 I'm an aspiring Web Developer, with a passion for programming/coding.
-- 
-- <h2>I'm competent with</h2>
+<br>
+✯ I'm an aspiring Web Developer, with a passion for programming/coding. ✯
+ <br> <br>
 
-- <ul>
-  <li>HTML/CSS</li>
-  <li>Tailwind CSS</li>
-  <li>Bootstrap</li>
-</ul>
+| I'm competent using  | I'm currently learning |
+| ------------- | ------------- |
+| HTML  | JavaScript |
+| CSS  | ExpressJS  |
+| Tailwind CSS  | Node.js  |
+| Bootstrap  | jQuery  |
 
-<h2>I'm currently learning</h2>
+ <br> <br>
+ 🐦‍🔥 Pronouns: He/Him 🐦‍🔥
+ <br> <br>
+ <h3>Please feel free to reach out if you have any collaboration ideas or opportunities!
+         <br><br>You can find my socials to contact me, below!</h3>
+ <br>
 
-<ul>
-  <li>JavaScript</li>
-  <li>ExpressJS</li>
-  <li>Node.js</li>
-  <li>jQuery</li>
-</ul>
-
-- 🤝 I'm looking to collaborate on projects.
-- 
-- 😄 Pronouns: He/Him
+ | <a href="https://www.instagram.com/corykaii/"> Instagram</a>  | <a href="https://www.linkedin.com/in/cory-burton-35b6a62ab/"> LinkedIn</a> |
+| ------------- | ------------- |
