@@ -1,4 +1,4 @@
-<h1>🌑Thanks for checking my GitHub out! I'm Cory.🌑</h1>
+<h1>🌑Thanks for checking my GitHub out! I'm Cory🌑</h1>
 
 <p>
         💻I'm 24 and I currently live in England. I'm looking to be hired, or collaborate on projects. I'm currently in a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">bootcamp </a> (which I'm dedicating almost every spare hour to, when I'm not in my full-time job). I aim to be full-stack, competent in almost any area, so I can be heavily involved. 
