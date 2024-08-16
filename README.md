@@ -29,3 +29,4 @@ And I figured... Why not? So I did some googling. Not a day has gone by where I'
 
  | <a href="https://www.instagram.com/corykaii/"> Instagram</a>  | <a href="https://www.linkedin.com/in/cory-burton-35b6a62ab/"> LinkedIn</a> |
 | ------------- | ------------- |
+<br><br>
