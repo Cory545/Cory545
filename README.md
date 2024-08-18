@@ -20,6 +20,7 @@ And I figured... Why not? So I did some googling. Not a day has gone by where I'
 | Tailwind CSS  | Node.js  |
 | Bootstrap  | jQuery  |
 | React.js  |   |
+
  <br> <br>
  🐦‍🔥 Pronouns: He/Him 🐦‍🔥
  <br> <br>
