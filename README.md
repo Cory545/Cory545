@@ -1,7 +1,7 @@
 <h1>🌑Thanks for checking my GitHub out! I'm Cory🌑</h1>
 
 <p>
-        💻I'm 24 and I currently live in England. I'm looking to be hired, or collaborate on projects. I'm currently in a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">bootcamp </a> (which I'm dedicating almost every spare hour to, when I'm not in my full-time job). I aim to be full-stack, competent in almost any area, so I can be heavily involved. 
+        💻I'm 24 and I currently live in England. I'm looking to be hired, or collaborate on projects. I aim to be full-stack, competent in almost any area, so I can be heavily involved. I have recently just finish a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">bootcamp </a> where I have recieved my certificate, it was a full stack Web Development bootcamp.
 <br><br>
         I never gave any credit to my fantasies of making websites and applications, until I was gifted a laptop less than a year ago.
 And I figured... Why not? So I did some googling. Not a day has gone by where I've not been obsessed. I am in love with the idea of making a website or application - that can positively impact peoples lives.🔋
