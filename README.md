@@ -13,7 +13,7 @@ Whether it's building dynamic websites, crafting user-friendly applications, or 
 ## I've experience using:
  
 || HTML || JavaScript || CSS || TailwindCSS || Bootstrap || <br>
-|| Node.js || jQuery || React.js || SQL || PostgreSQL ||
+|| Node.js || jQuery || React.js || SQL || PostgreSQL || MySQL ||
 
  <br> <br>
 **Pronouns:** He/Him ‍
