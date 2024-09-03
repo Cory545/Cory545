@@ -1,4 +1,4 @@
-# 🌑Thanks for checking my GitHub out!🌑
+# 🌑Thanks for checking out my GitHub!🌑
 
 <p>
         💻Hi there! I'm Cory, a dedicated software developer driven by a desire to make a positive impact on people's lives. I'm passionate about crafting innovative applications that solve real-world problems and improve people's experiences.
