@@ -23,5 +23,6 @@ Whether it's building dynamic websites, crafting user-friendly applications, or 
  <br>
 
 * [Instagram](https://www.instagram.com/corykaii/)
+
 * [LinkedIn](https://www.linkedin.com/in/cory-burton-35b6a62ab/)
 <br><br>
