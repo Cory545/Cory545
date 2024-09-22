@@ -18,7 +18,7 @@ Whether it's building dynamic websites, crafting user-friendly applications, or 
  <br> <br>
 **Pronouns:** He/Him ‍
  <br> <br>
- <h3>Please feel free to reach out if you have any collaboration ideas or opportunities!
+ <h3> Please feel free to reach out if you have any collaboration ideas or opportunities!
          <br><br>You can find my socials to contact me, below!</h3>
  <br>
 
