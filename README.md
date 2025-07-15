@@ -1,10 +1,10 @@
 # 🌑Thanks for checking out my GitHub!🌑
 
 <p>
-        Hello!
- I'm a junior data analyst professional. 
+        Hello! <br><br>
+I work as a junior data analyst professionally. 
 
-In my free time I'm attempting Web Development.
+In my freetime, I learn Web Development.
 
 I'm actively learning:
 JavaScript, HTML/CSS and SQL.
